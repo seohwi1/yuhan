@@ -1,0 +1,41 @@
+*{margin: 0;}
+html, body {width: 100%;}
+
+
+body{background-color: #646464;}
+
+.logo_form{height: 200px;margin-top: 50px; background-color: none;position: sticky; top:70px;}
+.logotext_form{
+  font-family: 'Noto Sans KR', sans-serif; font-weight: 600;
+  margin-left: 35px;color: white; font-size: 35px;
+display: block;}
+
+.logotext_form a:link{text-decoration: none;color: white;}
+.logotext_form a:visited{text-decoration: none;color: white;}
+.logotext_form a:active{text-decoration: none;color: white;}
+.logotext_form a:hover{text-decoration: none;color: white;}
+
+
+.menu_form{height: 0px; position: fixed;}
+.menutext_form{font-family: 'Noto Sans KR', sans-serif; font-weight: 400;
+  display:block;font-size: 15px;
+height:50px;margin-top: 10px; letter-spacing: 2pt;}
+
+
+.menutext_form a:link{text-decoration: none;color: white;}
+.menutext_form a:visited{text-decoration: none;color: white;}
+.menutext_form a:active{text-decoration: none;color: white;}
+.menutext_form a:hover{text-decoration: none;color: #ffb31f;}
+
+#pr{height: 460px;width:300px; display:inline-block;background-size: cover; position:}
+
+.p1{background-image: url(../img/bg_1.png);margin-left: 270px; margin-right: 20px;}
+.p2{background-image: url(../img/bg_2.png);margin-right: 20px;}
+.p3{background-image: url(../img/bg_3.png);margin-right: 0px;}
+
+
+.footer_form{height: 80px;}
+.footertext_form{font-family: 'Noto Sans KR', sans-serif; font-weight: 300;font-size: 12px;color: white; text-align: center;position: relative;top: 40%;}
+.p01{text-align: right;margin-right: 20px;}
+.p02{text-align: right;margin-right: 20px;}
+.p03{text-align: right;margin-right: 20px;}
